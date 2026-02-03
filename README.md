@@ -2,7 +2,7 @@
 
 Este app foi desenvolvido como desafio de projeto de Vibe Coding da DIO utilizando o LOVABLE e o Copilot WEB. A proposta era criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
-PRD refinado no Copilot WEB"
+PRD refinado no Copilot WEB
 
 ""
 ## PRD – Aplicativo de Organização de Finanças Pessoais
@@ -49,10 +49,11 @@ O aplicativo deve ser projetado com Design Universal, garantindo que a experiên
   - Medir engajamento (quantidade de registros feitos via chat).
   - Avaliar clareza das recomendações e relatórios.
   - Verificar usabilidade com pessoas que utilizam recursos de acessibilidade.
+    
 ""
 
 
-Interações com o LOVABLE
+# Interações com o LOVABLE
 
 > Crie um app de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): (PRD)
 
@@ -69,7 +70,7 @@ Interações com o LOVABLE
 
 > Fiquei na dúvida se posso alterar minhas metas. Na página de teste não há opção. Também não está abrindo a opção de cadastrar nova meta. Eu gostaria que essas opções estivessem disponíveis.
 
-Resultado final no LOVABLE: https://wise-words-wallet.lovable.app
+# Resultado final no LOVABLE: https://wise-words-wallet.lovable.app
 
 <img width="782" height="690" alt="Captura de Tela 2026-02-02 às 22 49 12" src="https://github.com/user-attachments/assets/bc24ad63-bb61-46b6-bba2-8143a119c66a" />
 
@@ -124,7 +125,7 @@ O app foi desenvolvido com base em princípios de Design Universal, garantindo a
 
   
 ## Reflexão:
-## O que funcionou bem?
+### O que funcionou bem?
   O refinamento do PRD feito previamente no Copilot ajudou bastante, pois o LOVABLE tem apenas 3 interações gratuitas por dia.
 ### O que não funcionou como o esperado?
   Esperava que o LOVABLE permitisse mais interações gratuitas por dia, pois levei dois dias para finalizar meu app em razão dessa limitação.
