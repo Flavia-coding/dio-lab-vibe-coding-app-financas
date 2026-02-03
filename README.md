@@ -1,6 +1,8 @@
 # 💸 App de Organização de Finanças Pessoais da Flávia Sales com Vibe Coding
 
-PRD refinado no Copilot WEB
+Este app foi desenvolvido como desafio de projeto de Vibe Coding da DIO utilizando o LOVABLE e o Copilot WEB. A proposta era criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
+PRD refinado no Copilot WEB"
 
 ""
 ## PRD – Aplicativo de Organização de Finanças Pessoais
