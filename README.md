@@ -3,8 +3,7 @@
 Este app foi desenvolvido como desafio de projeto de Vibe Coding da DIO utilizando o LOVABLE e o Copilot WEB. A proposta era criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
 PRD refinado no Copilot WEB
-
-""
+```
 ## PRD – Aplicativo de Organização de Finanças Pessoais
 ## Contexto
 Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas em linguagem natural, permitindo que o usuário registre e acompanhe seus gastos sem depender de formulários complexos ou planilhas.
@@ -49,8 +48,8 @@ O aplicativo deve ser projetado com Design Universal, garantindo que a experiên
   - Medir engajamento (quantidade de registros feitos via chat).
   - Avaliar clareza das recomendações e relatórios.
   - Verificar usabilidade com pessoas que utilizam recursos de acessibilidade.
-    
-""
+
+```
 
 
 # Interações com o LOVABLE
